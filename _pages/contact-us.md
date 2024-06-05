@@ -9,7 +9,7 @@ permalink: /contact-us/
   <p class="mb-4">We'd love to hear from you! Whether you have a question about our services, need assistance, or just want to give feedback, feel free to reach out to us.</p>
 
   <h2 class="text-2xl font-semibold mb-4">Contact Information</h2>
-  <p class="mb-2"><strong>Email:</strong> <a href="mailto:garrett@draftedcommerce.com" class="text-blue-500">garrett@draftedcommerce.com</a></p>
+  <p class="mb-2"><strong>Email:</strong> <a href="mailto:garrett@draftedcommerce.net" class="text-blue-500">garrett@draftedcommerce.net</a></p>
   <p class="mb-2"><strong>Phone:</strong> (123) 456-7890</p>
   <p class="mb-4"><strong>Mailing Address:</strong> Drafted Commerce LLC, 4197 W Cedar Hills Dr, Cedar Hills, UT 84062</p>
 
