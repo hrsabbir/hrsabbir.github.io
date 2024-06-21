@@ -978,8 +978,6 @@ video {
   flex-shrink: 0;
 }.flex-grow {
   flex-grow: 1;
-}.grow {
-  flex-grow: 1;
 }.cursor-pointer {
   cursor: pointer;
 }.list-none {
